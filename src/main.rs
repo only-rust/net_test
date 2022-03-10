@@ -1,3 +1,5 @@
+use net_test::conn;
+
 fn main() {
-    println!("Hello, world!");
+conn();
 }

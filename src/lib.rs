@@ -9,3 +9,7 @@ pub fn conn() {
       println!("Couldn't connect to server...");
   }
 }
+
+fn test_func() {
+    println!("This is a test function!");
+}
